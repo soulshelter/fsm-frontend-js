@@ -5,7 +5,7 @@ const initialState = {
     id: '',
     name: '',
     authentication: '',
-    state: 'SUCCESS'
+    state: ''
 };
 
 const loginReducer = createReducer(initialState, {
