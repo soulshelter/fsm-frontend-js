@@ -7,6 +7,7 @@ import { createStore, applyMiddleware } from 'redux';
 import rootReducer from 'modules';
 import { composeWithDevTools } from 'redux-devtools-extension';
 import logger from 'redux-logger';
+import "assets/scss/material-kit-pro-react.scss?v=1.8.0";
 
 const store = createStore(rootReducer, composeWithDevTools(applyMiddleware(logger)));
 
