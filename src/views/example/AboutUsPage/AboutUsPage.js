@@ -16,11 +16,11 @@ import Parallax from "components/Parallax/Parallax.js";
 import Footer from "components/Footer/Footer.js";
 // sections for this page
 import HeaderLinks from "components/Header/HeaderLinks.js";
-import SectionDescription from "views/AboutUsPage/Sections/SectionDescription.js";
-import SectionTeam from "views/AboutUsPage/Sections/SectionTeam.js";
-import SectionServices from "views/AboutUsPage/Sections/SectionServices.js";
-import SectionOffice from "views/AboutUsPage/Sections/SectionOffice.js";
-import SectionContact from "views/AboutUsPage/Sections/SectionContact.js";
+import SectionDescription from "views/example/AboutUsPage/Sections/SectionDescription.js";
+import SectionTeam from "views/example/AboutUsPage/Sections/SectionTeam.js";
+import SectionServices from "views/example/AboutUsPage/Sections/SectionServices.js";
+import SectionOffice from "views/example/AboutUsPage/Sections/SectionOffice.js";
+import SectionContact from "views/example/AboutUsPage/Sections/SectionContact.js";
 
 import aboutUsStyle from "assets/jss/material-kit-pro-react/views/aboutUsStyle.js";
 

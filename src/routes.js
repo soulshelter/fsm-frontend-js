@@ -8,22 +8,22 @@ import Mypage from "views/Mypage";
 import PrivateRoute from "components/PrivateRoute/PrivateRoute";
 
 // pages for this product
-import AboutUsPage from "views/AboutUsPage/AboutUsPage.js";
-import BlogPostPage from "views/BlogPostPage/BlogPostPage.js";
-import BlogPostsPage from "views/BlogPostsPage/BlogPostsPage.js";
-import ComponentsPage from "views/ComponentsPage/ComponentsPage.js";
-import ContactUsPage from "views/ContactUsPage/ContactUsPage.js";
-import EcommercePage from "views/EcommercePage/EcommercePage.js";
-import LandingPage from "views/LandingPage/LandingPage.js";
-import LoginPage from "views/LoginPage/LoginPage.js";
-import PresentationPage from "views/PresentationPage/PresentationPage.js";
-import PricingPage from "views/PricingPage/PricingPage.js";
-import ProfilePage from "views/ProfilePage/ProfilePage.js";
-import ProductPage from "views/ProductPage/ProductPage.js";
-import SectionsPage from "views/SectionsPage/SectionsPage.js";
-import ShoppingCartPage from "views/ShoppingCartPage/ShoppingCartPage.js";
-import SignupPage from "views/SignupPage/SignupPage.js";
-import ErrorPage from "views/ErrorPage/ErrorPage.js";
+import AboutUsPage from "views/example/AboutUsPage/AboutUsPage.js";
+import BlogPostPage from "views/example/BlogPostPage/BlogPostPage.js";
+import BlogPostsPage from "views/example/BlogPostsPage/BlogPostsPage.js";
+import ComponentsPage from "views/example/ComponentsPage/ComponentsPage.js";
+import ContactUsPage from "views/example/ContactUsPage/ContactUsPage.js";
+import EcommercePage from "views/example/EcommercePage/EcommercePage.js";
+import LandingPage from "views/example/LandingPage/LandingPage.js";
+import LoginPage from "views/example/LoginPage/LoginPage.js";
+import PresentationPage from "views/example/PresentationPage/PresentationPage.js";
+import PricingPage from "views/example/PricingPage/PricingPage.js";
+import ProfilePage from "views/example/ProfilePage/ProfilePage.js";
+import ProductPage from "views/example/ProductPage/ProductPage.js";
+import SectionsPage from "views/example/SectionsPage/SectionsPage.js";
+import ShoppingCartPage from "views/example/ShoppingCartPage/ShoppingCartPage.js";
+import SignupPage from "views/example/SignupPage/SignupPage.js";
+import ErrorPage from "views/example/ErrorPage/ErrorPage.js";
 
 function routes() {
     return (

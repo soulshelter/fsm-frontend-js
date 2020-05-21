@@ -16,8 +16,8 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Footer from "components/Footer/Footer.js";
 // sections for this page
-import SectionPricing from "views/PricingPage/Sections/SectionPricing.js";
-import SectionFeatures from "views/PricingPage/Sections/SectionFeatures.js";
+import SectionPricing from "views/example/PricingPage/Sections/SectionPricing.js";
+import SectionFeatures from "views/example/PricingPage/Sections/SectionFeatures.js";
 
 import pricingStyle from "assets/jss/material-kit-pro-react/views/pricingStyle.js";
 
